@@ -1,0 +1,9 @@
+button{
+    color: lightblue;
+    padding: 20px;
+}
+@media screen and (width < 600px) {
+    button{
+        display: none;
+    }
+}
